@@ -1,34 +1,17 @@
 # SQL-Lab2
 
-# We will use the Employees and Awards table below:
-
- <img src="Lab2.png" width="500" height="500">
 
 ### Q1: Choose all employees who have received an award (Nested Query)?
-Query:
-
-Output:
- 
+![](Screenshot%202023-08-06%20at%206.46.06%20PM.png)
 
 ### Q2: Choose all employees who have never received an award (Nested Query)?
-Query:
-
-Output:
-
+![](Screenshot%202023-08-06%20at%206.47.06%20PM.png)
  
 ### Q3: Choose all Developers who make more than all Managers combined (Nested Query)?
-Query:
-
-Output:
-
+![](Screenshot%202023-08-06%20at%206.48.46%20PM.png)
  
 ### Q4: Choose all Developers who make more money than any Manager (Nested Query)?
-Query:
-
-Output:
-
+![](Screenshot%202023-08-06%20at%206.49.06%20PM.png)
  
 ### Q5: Choose all employees whose salaries are higher than the average for their position. (Nested Query)?
-Query:
-
-Output:
+![](Screenshot%202023-08-06%20at%206.49.44%20PM.png)
